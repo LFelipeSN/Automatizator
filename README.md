@@ -2,6 +2,7 @@
 ![automatizator](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_automatizator.png)
 
 A batch file that automates some things for you
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## Tecnologias Utilizadas
