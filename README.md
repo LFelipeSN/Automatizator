@@ -10,18 +10,18 @@ A batch file that automates some things for you
 Na primeira utilização, você deve executar o arquivo "localizacao.bat" e copiar o caminho informado pelo prompt (este é o caminho que o arquivo principal deve acessar ao ser executado como Administrador).
 
 Abra o arquivo "automatizator.bat" como Administrador (necessário para não precisar dar permissão toda vez que for iniciar um .exe ou parecido), edite o arquivo e coloque o caminho copiado na variável "pasta_fonte", conforme mostrado no print abaixo:
-{foto}
+![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_pasta_fonte.png)
 
 ### Executáveis
 
-{foto}
+![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_pasta_executaveis.png)
 A pasta acima é onde devem ficar os arquivos que deseja executar. Poderá ser alterada o caminho ao editar o "automatizator.bat", conforme mostrado abaixo:
-{foto}
+![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_executaveis.png)
 
 ### Informações
-{foto}
+![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_pasta_informacoes.png)
 Essa é a pasta onde será salvo um txt com as configurações da máquina. Poderá ser alterada o caminho ao editar o "automatizator.bat", conforme mostrado abaixo:
-{foto}
+![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_informacoes.png)
 
 
 ## Referência
@@ -30,8 +30,3 @@ Essa é a pasta onde será salvo um txt com as configurações da máquina. Pode
 
 ## Autores
 - [@LFelipeSN](https://www.github.com/LFelipeSN)
-
-
-## Screenshots
-
-
