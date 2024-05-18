@@ -4,6 +4,7 @@ title Automatizator
 mode 110,30
 chcp 65001 
 
+
 REM --------------------configurações:--------------------
 
 REM diretorio do arquivo
