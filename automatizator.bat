@@ -62,7 +62,6 @@ REM <---------------------------------------->
 REM instala todos os programas na pasta informada
 
 echo A instalação vai começar:
-echo %diretorio%
 pause
 
 cd /d %diretorio%
@@ -71,10 +70,6 @@ if errorlevel 1 (
     pause
     exit /b 1
 )
-
-
-echo teste
-pause
 
 for %%i in (*.exe) do (
 	echo "instalando" %%i".."
