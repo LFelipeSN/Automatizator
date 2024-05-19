@@ -13,11 +13,11 @@ REM diretorio de executaveis:
 set "diretorio=executaveis_padroes"
 
 REM nome do arquivo de configurações da máquina:
-set "informacoes_file=informacoes\%USERNAME%-%COMPUTERNAME%.txt"
+set "informacoes_file=%pasta_fonte%\informacoes\%USERNAME%-%COMPUTERNAME%.txt"
 
 REM -------------------------------------------------------
 
-cd %pasta_fonte%
+cd /d %pasta_fonte%
 if errorlevel 1 (
     echo  [ERRO]: Pasta fonte não encontrada!, verifique o caminho do arquivo
     pause
@@ -65,7 +65,7 @@ echo A instalação vai começar:
 echo %diretorio%
 pause
 
-cd %diretorio%
+cd /d %diretorio%
 if errorlevel 1 (
     echo  [ERRO]: Pasta 'executáveis não encontrada, certifique-se de incluir ela no caminho raiz
     pause
