@@ -24,5 +24,3 @@ while ($true) {
         default { Write-Host "Opcao inválida, tente novamente!" -ForegroundColor Red }
     }
 }
-
-#funcioes desnecessarias retiradas, aplicacao de try catch, e mudança de bat para pshel, separacao em arquivos,

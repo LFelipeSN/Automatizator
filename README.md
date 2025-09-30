@@ -1,39 +1,49 @@
-# Automatizator
+# Otimizatidor
 ![automatizator](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_automatizator.png)
 
 A batch file that automates some things for you
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
+
+## Indice
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+
+- [Utilizando o projeto](#Utilizando-o-projeto)
+
+- [Funções](#Funções)
+
+- [Referência](#Referência)
+
+- [Autores](#autores)
 
 ## Tecnologias Utilizadas
-**Linguagem:** ``Batch`` 
+**Linguagem:** ``Batch`` & ``Powershell`` 
 
 ## Utilizando o projeto
-Na primeira utilização, você deve executar o arquivo "localizacao.bat" e copiar o caminho informado pelo prompt (este é o caminho que o arquivo principal deve acessar ao ser executado como Administrador).
+Foi disponibilizado um arquivo chamado executável.bat para que ele possa chamar o otimizador.ps1 sem precisar executar via linha de comando porém ele é opcional
 
-Abra o arquivo "automatizator.bat" como Administrador (necessário para não precisar dar permissão toda vez que for iniciar um .exe ou parecido), edite o arquivo e coloque o caminho copiado na variável "pasta_fonte", conforme mostrado no print abaixo:
+## Funções
 
-![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_pasta_fonte.png)
-
-### Executáveis
-
-![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_pasta_executaveis.png)
-
-A pasta acima é onde devem ficar os arquivos que deseja executar. Poderá ser alterada o caminho ao editar o "automatizator.bat", conforme mostrado abaixo:
-
-![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_executaveis.png)
-
-### Informações
-![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_pasta_informacoes.png)
-
-Essa é a pasta onde será salvo um txt com as configurações da máquina. Poderá ser alterada o caminho ao editar o "automatizator.bat", conforme mostrado abaixo:
-
-![App Screenshot](https://raw.githubusercontent.com/LFelipeSN/Automatizator/main/capturas_de_tela/screen_informacoes.png)
-
+### 1.Otimizar Computador
+  Ajusta o plano de energia, desabilita o SysMain e abre janelas para configurar aparência e inicialização.
+### 2.Verificar Informações da Máquina
+  Exibe informações do computador como usuário, processador, memória, disco e sistema operacional.
+### 3.Atualizar Servidor de Hora
+  Configura e sincroniza o servidor de hora do Windows.
+### 4.Desfragmentação e Limpeza de disco
+  Executa desfragmentação do disco e abre a ferramenta de limpeza.
+### 5.Instalar Certificados SSL
+  Importa certificados SSL da pasta 'certificado(s)'.
+### 6.resumir painel
+  recolhe a descrição das opções.
 
 ## Referência
 
  - [Readme Templates](https://readme.so/pt/editor)
 
 ## Autores
-- [@LFelipeSN](https://www.github.com/LFelipeSN)
+<div align="left">
+  <a href="https://github.com/LFelipeSN" target="_blank">
+    <img src="https://github.com/LFelipeSN.png" width="64" height="64" alt="LFelipeSN" style="border-radius:50%;margin-top:8px;" />
+  </a>
+</div>
