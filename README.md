@@ -1,5 +1,5 @@
 # Otimizatidor
-![Otimizatidor](<img width="1043" height="657" alt="image" src="https://github.com/user-attachments/assets/33090cac-8884-4f2b-aec1-8e90723e42d1" />)
+![Otimizatidor](https://github.com/user-attachments/assets/33090cac-8884-4f2b-aec1-8e90723e42d1)
 
 A batch file that automates some things for you
 
