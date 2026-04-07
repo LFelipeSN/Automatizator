@@ -1,5 +1,5 @@
-# Otimizatidor
-![Otimizatidor](https://github.com/user-attachments/assets/33090cac-8884-4f2b-aec1-8e90723e42d1)
+# Otimizador
+![Otimizador](https://github.com/user-attachments/assets/33090cac-8884-4f2b-aec1-8e90723e42d1)
 
 A batch file that automates some things for you
 
